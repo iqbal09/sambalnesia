@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/drawer_new_recipes" />
+
+        <item
+            android:id="@+id/drawer_category"
+            android:icon="@drawable/ic_drawer_category"
+            android:title="@string/drawer_category" />
+
+        <item
+            android:id="@+id/drawer_favorite"
+            android:icon="@drawable/ic_favorite"
+            android:title="@string/drawer_favorite" />
+
+        <item
+            android:id="@+id/drawer_rate"
+            android:icon="@drawable/ic_pref_rate"
+            android:title="@string/drawer_rate" />
+
+        <item
+            android:id="@+id/drawer_more"
+            android:icon="@drawable/ic_pref_more"
+            android:title="@string/drawer_more" />
+
+        <item
+            android:id="@+id/drawer_setting"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/drawer_setting" />
+    </group>
+
+</menu>

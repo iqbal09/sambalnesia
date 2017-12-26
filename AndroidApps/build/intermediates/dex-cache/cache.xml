@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="993834cb17d07d51b92db89d2c330243592ebf77">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-games-8.1.0_3b8bf5cea2e13a8bfe5119b4382c0a6a9c4425d1.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="325788a04b436a0bccbc5b4c54cf0f12ebdcbd2d">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wallet-8.1.0_f503f819ee9a9afddf1cf955dd1b2b4ec2254ae3.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-basement-8.1.0_a3c7349b006936312b6d81e4ae5670d58b3158b2.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3aed37c38c56679602255dd72ef356da5d327cda">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-location-8.1.0_6a41aa97653c22fdf92c75d17133ba3133681513.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appindexing-8.1.0_f24e6feaf85f24c5435c66ff224e07d81139c6bb.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b92002cb2f0e11a226ac5bac6dff1dc2a9d0b774">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-appinvite-8.1.0_943f706f9c202860a75a08a71420a64f46cffb39.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcb5b75baf05d92e61d5706737200ee55949f97b">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-gcm-8.1.0_896bbc02f86237d7d4888f07e183549c48049312.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.1.1_3951c85f5be753f387e750d671baa018b2e1ddc7.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d294caf562c4c678b2ef351662a0ca6f1a4d06c0">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-identity-8.1.0_69a97ab1363b400d8e6a748e39a825384e635b19.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.1.1_4e164e9b27cf1198052a6cfbeb932f39c5a984da.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-23.1.1_7aa8bdff6e6a3861e4f5854945f42ae1f31db973.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.android.support-mediarouter-v7-22.2.0_48c4cf07ad2519ef04b2ff16c4ec25e8321d5d80.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-wearable-8.1.0_0ee6500294bcce59b59855df90f591447c7f7892.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-fitness-8.1.0_2ecad25dea89a88032f01f216efe6fe5062f8adc.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-ads-8.1.0_aadd27d616166bfd535e690c255fe1e5b36954c3.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.1.1_c9d11ef7139b065f00f103711f760e644f522800.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/libs/httpmime-4.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c7349b04e5d76895fdfc0f38bdc0699e5f6fef5a">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/httpmime-4.2.1_22af4f777b157f58e59804b2dbf2ac2baa326b12.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-base-8.1.0_5b1aa073bb3af1854abfc287de9914489963a9cc.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="041d93cf0533591c29d1d7263b2fa114dbfb20bd">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-nearby-8.1.0_98eb0fcde09a81a65bc97004b2c362740655c1c5.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0_94e91cf2c0df4d15f733c57cf9780258c98e3a84.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_c125ed4ad409529832d5f387764d670cf7fdd1ef.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d93480da1d303122ee67dc3bc23e6297bdef9951">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-panorama-8.1.0_b9bfc5b0ca6f603e16548312e6f9d77b6ae5af70.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.android.support-design-23.1.1_6a9da2f2cdfd52b8bd1119e1acc361e5786e602d.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-analytics-8.1.0_d39e85d633b8c83f44fcec7e65754688e3ca02f8.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.android.support-palette-v7-23.1.1_c5940fc7962d291979723f941b349e3afb053915.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a7e47da654546f9457deb6132364f1bf33a1857">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-maps-8.1.0_21cbda52af493dc52523438e3ce56b69e796af36.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="482de223655d06253cc6a4955d653f8994169500">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-measurement-8.1.0_cc15d021034060c06b027834ba20a0ca14a0000b.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="17449c47df35c754b257532052f1270c444f7993">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-vision-8.1.0_799c8a857a86ba8c159ed5ff0ed9fa2a0324d8d0.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1_31be336d648456da399cb2f7c45df17f6a10594d.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3178362320bcf51228835b60ff978efadfd1f783">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-cast-8.1.0_2b598deecde0b19e46f533c1241048f2669457e2.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/libs/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/picasso-2.5.2_3f8af5c3096cb568b69eafaf924460aaa866aa0a.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c729e6d76a36c5dc27e6a4c4009296f49eaa88a">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-drive-8.1.0_dccd0afcdf74e3ec19f680179d79c112009f68d1.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d61920aba361832a9545a43fa8c9453eb02f18f7">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-plus-8.1.0_c1f7f61bb05c5ecd7e2c6c22e6910947af6391f0.jar" />
+    </item>
+    <item
+        jar="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3b05c18f60969ecc2ba49c0409c4b96be2d9cb0c">
+        <dex dex="/Users/mac/Documents/ADMOBS HUNTER/YourRecipesApp/app/build/intermediates/pre-dexed/release/com.google.android.gms-play-services-safetynet-8.1.0_de5f928979b98af6acc6479e68859f085886c5c7.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,19 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceScreen
+        android:summary="@string/app_name"
+        android:title="@string/title_app_name" />
+
+    <PreferenceScreen
+        android:summary="@string/app_version"
+        android:title="@string/title_app_version" />
+
+    <PreferenceScreen
+        android:summary="@string/app_email"
+        android:title="@string/title_app_email" />
+
+    <PreferenceScreen
+        android:summary="@string/app_copyright"
+        android:title="@string/title_app_copyright" />
+
+</PreferenceScreen>

@@ -1,0 +1,31 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <header
+        android:fragment="sambal.resep.sambalnesia.preferences.SettingsActivity$NotificationPreferenceFragment"
+        android:title="@string/pref_header_notifications"
+        android:summary="@string/pref_header_notifications_summary"
+        android:icon="@drawable/ic_pref_notification">
+    </header>
+
+    <header
+        android:fragment="sambal.resep.sambalnesia.preferences.SettingsActivity$AboutPreferenceFragment"
+        android:title="@string/pref_header_about"
+        android:summary="@string/pref_header_about_summary"
+        android:icon="@drawable/ic_pref_info">
+    </header>
+
+    <header
+        android:id="@+id/rate"
+        android:title="@string/pref_header_rate"
+        android:summary="@string/pref_header_rate_summary"
+        android:icon="@drawable/ic_pref_rate">
+    </header>
+
+    <header
+        android:id="@+id/more"
+        android:title="@string/pref_header_more"
+        android:summary="@string/pref_header_more_summary"
+        android:icon="@drawable/ic_pref_more">
+    </header>
+
+</preference-headers>
