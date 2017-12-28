@@ -3,10 +3,10 @@
 	//database configuration
 	
 		
-	$host       = "localhost";
-	$user       = "master";
-	$pass       = "ikankakapikangabus";
-	$database   = "sambal";
+	$host       = "";
+	$user       = "";
+	$pass       = "";
+	$database   = "";
 	
 	$connect    = new mysqli($host, $user, $pass,$database) or die("Error : ".mysql_error());
 	
